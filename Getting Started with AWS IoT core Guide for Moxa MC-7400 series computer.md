@@ -6,7 +6,7 @@
 
 | Version | Date        | Description of change |
 | ------- | ----------- | --------------------- |
-| 1       | 2021/05/29 | First release         |
+| 1       | 2021/06/24 | First release         |
 |         |             |                       |
 
 # Overview
